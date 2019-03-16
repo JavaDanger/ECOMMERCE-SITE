@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+#btnFirst {
+	width: 60px;
+	margin-right: 2px;
+}
+
+#btnPrev {
+	width: 60px;
+	margin-right: 2px;
+}
+
+#btnNext {
+	width: 60px;
+	margin-right: 2px;
+}
+
+#btnLast {
+	width: 60px;
+	margin-right: 2px;
+}
+
+#add {
+	width: 50px;
+	margin-right: 2px;
+}
+
+#edit {
+	width: 50px;
+	margin-right: 2px;
+}
+
+#delete {
+	width: 50px;
+	margin-right: 2px;
+}
+
+.paginationText {
+	margin-top: 5px;
+}
+
+.modal-header {
+	background-color: #337ab7;
+	color: white;
+}
+
