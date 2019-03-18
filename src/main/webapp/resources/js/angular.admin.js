@@ -166,6 +166,7 @@ admin.controller('adminController', function($scope, $http, $timeout) {
 	// create default item angular controller
 	// focus menus import export controller
 	$scope.createDefaultMenus = function() {
+		//calling MenusImportExportController controller bujco?r akbar
 		var url = 'http://localhost:8080/ebangla/createDefaultMenus/';
 		$http.post(url).then(function(response) {
 			if (response.data.status === "ok") {

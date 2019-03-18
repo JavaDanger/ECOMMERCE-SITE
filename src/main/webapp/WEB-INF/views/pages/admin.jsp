@@ -404,8 +404,7 @@
 							<li>
 								<button ng-click="createDefaultMenus()"
 									class="btn btn-block btn-success btn-sm">Create
-									default menus</button> <%@ include
-									file="/resources/dynamic-pages/progressbar.jsp"%>
+									default menus</button>
 							</li>
 							<li>
 								<button type="button" class="btn btn-block btn-success btn-sm">
